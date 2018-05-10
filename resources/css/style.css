@@ -1,7 +1,8 @@
 h1,
 h2,
 p,
-a {
+a,
+video {
   font-family: "Verdana", sans-serif;
   text-align: center;
 }
@@ -34,5 +35,4 @@ a {
 
 .footer {
   text-align: right;
-  color: grey;
 }
